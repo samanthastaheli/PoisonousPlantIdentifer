@@ -1,4 +1,4 @@
-# Poisnous Plant Identifier
+# Poisonous Plant Identifier
 
 **Senior Project Fall 2022**
 
